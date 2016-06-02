@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/testng-6.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/XLFileJars/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/XLFileJars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/XLFileJars/poi-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/XLFileJars/poi-ooxml-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/XLFileJars/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/XLFileJars/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/XLFileJars/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/XLFileJars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/hari vardhan/jars/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

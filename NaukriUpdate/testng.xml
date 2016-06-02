@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ResumeUpdate">
+  <test name="updateResume">
+     
+     <parameter name="browser" value="FF"/>
+    
+     <classes>
+        <class name="com.naukri.SampleProgram" />
+        <class name="com.naukri.NewClass" />
+      
+     </classes>
+  </test>
+</suite>

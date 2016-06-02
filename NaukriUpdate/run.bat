@@ -1,0 +1,1 @@
+D: && cd hari vardhan\work space\naukriupdate && java -cp bin;lib\* org.testng.TestNG testng.xml && pause

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ResumeUpdate]">
+  <parameter name="browser" value="FF"/>
+  <test name="updateResume(failed)" preserve-order="true">
+    <parameter name="browser" value="FF"/>
+    <classes>
+      <class name="com.naukri.NewClass">
+        <methods>
+          <include name="fb"/>
+        </methods>
+      </class> <!-- com.naukri.NewClass -->
+    </classes>
+  </test> <!-- updateResume(failed) -->
+</suite> <!-- Failed suite [ResumeUpdate] -->

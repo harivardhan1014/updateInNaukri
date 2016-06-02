@@ -1,0 +1,1 @@
+D: && cd hari\workspace\naukriupdate && java -cp hari\workspace\naukriupdate\bin;hari\workspace\naukriupdate\lib\* org.testng.TestNG testng.xml

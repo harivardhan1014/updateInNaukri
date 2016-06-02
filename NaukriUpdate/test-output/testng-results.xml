@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+      <class name="TestNGAnnotationsDemo">
+        <test-method status="PASS" signature="beforeSuiteDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="beforeSuiteDemo" is-config="true" duration-ms="11" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- beforeSuiteDemo -->
+        <test-method status="PASS" signature="beforeTestDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="beforeTestDemo" is-config="true" duration-ms="1" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- beforeTestDemo -->
+        <test-method status="PASS" signature="beforeClassDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="beforeClassDemo" is-config="true" duration-ms="0" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- beforeClassDemo -->
+        <test-method status="PASS" signature="testDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="testDemo" duration-ms="6" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- testDemo -->
+        <test-method status="PASS" signature="beforeMethodDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="beforeMethodDemo" is-config="true" duration-ms="0" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- beforeMethodDemo -->
+        <test-method status="PASS" signature="beforeMethodDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="beforeMethodDemo" is-config="true" duration-ms="0" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- beforeMethodDemo -->
+        <test-method status="PASS" signature="testDemo1()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="testDemo1" duration-ms="3" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- testDemo1 -->
+        <test-method status="PASS" signature="afterMetrhodDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="afterMetrhodDemo" is-config="true" duration-ms="0" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- afterMetrhodDemo -->
+        <test-method status="PASS" signature="afterMetrhodDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="afterMetrhodDemo" is-config="true" duration-ms="0" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- afterMetrhodDemo -->
+        <test-method status="PASS" signature="afterClassDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="afterClassDemo" is-config="true" duration-ms="0" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- afterClassDemo -->
+        <test-method status="PASS" signature="afterTestDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="afterTestDemo" is-config="true" duration-ms="0" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- afterTestDemo -->
+        <test-method status="PASS" signature="afterSuiteDemo()[pri:0, instance:TestNGAnnotationsDemo@16c634]" name="afterSuiteDemo" is-config="true" duration-ms="0" started-at="2016-06-02T13:20:16Z" finished-at="2016-06-02T13:20:16Z">
+        </test-method> <!-- afterSuiteDemo -->
+      </class> <!-- TestNGAnnotationsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
